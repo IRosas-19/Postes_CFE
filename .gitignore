@@ -1,0 +1,12 @@
+# Credenciales: nunca subir
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Datos de la red (planos y exportaciones); quita estas líneas si quieres subir ejemplos
+*.kmz
+*.kml
